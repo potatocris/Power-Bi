@@ -1,5 +1,8 @@
 To display the Keyboard Shortcuts page within Power BI Desktop = click on the canvas, use SHIFT + / (i.e., ?)
 
+[Microsoft Keyboard shortcuts in Power BI Desktop]([url](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-accessibility-keyboard-shortcuts))
+
+
 Action|Keyboard Shortcut
 ------|---------------|
 Insert Line Below           | SHIFT + ENTER
