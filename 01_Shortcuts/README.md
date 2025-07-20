@@ -4,7 +4,7 @@ Action|Keyboard Shortcut
 ------|---------------|
 Insert Line Below           | SHIFT + ENTER
 Insert Line Above           | CTRL + SHIFT + ENTER
-Select Current Line         | CTRL + I
+Select Current Line         | CTRL + L
 Cut Current Line            | CTRL + X
 Paste Cut Line              | CTRL + V
 Duplicate Current Row       | SHIFT + ALT + ↑/↓
