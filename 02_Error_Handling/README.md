@@ -1,0 +1,2 @@
+- <IFERROR(Value, Value if Error)> replaces error
+- <ISBLANK(Value)> replaces nulls
