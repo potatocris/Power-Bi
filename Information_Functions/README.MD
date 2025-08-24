@@ -1,0 +1,6 @@
+- ISBLANK(): checks whether a value is blank - returns True or False
+- ISERROR(): check if there is an error, return True or False
+- ISLOGICAL(): checks for a boolean, returns True or False
+- ISNUMBER(): check for a number returns True or False
+- ISNONTEXT(): checks for text (blank is not a text), returns True or False
+- ISTEXT(): checks whether a value is text returns True or False
